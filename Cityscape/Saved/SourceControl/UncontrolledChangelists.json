@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Work/Cityscape/CityForWill/Cityscape/Content/StarterContent/Maps/Cityscape.umap",
+				"D:/Work/Cityscape/Cityscape/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Work/Cityscape/Cityscape/Content/StarterContent/Maps/Cityscape.umap"
+			]
+		}
+	]
+}
