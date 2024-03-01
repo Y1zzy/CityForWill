@@ -1300,3 +1300,847 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.01-02.23.57:499][724]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:09.639 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 101915 files in 91439 folders with total size 9917 MiB.
 [2024.03.01-03.23.57:946][512]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:10.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 101915 files in 91439 folders with total size 9917 MiB.
 [2024.03.01-04.00.14:128][ 85]LogEditorViewport: Clicking Background
+[2024.03.01-04.24.03:953][608]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:10.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 101915 files in 91439 folders with total size 9917 MiB.
+[2024.03.01-04.30.27:017][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.30.33:354][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-04.30.33:476][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.30.33:515][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-04.30.41:602][537]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.30.46:243][796]LogEditorViewport: Clicking Background
+[2024.03.01-04.30.52:206][107]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.30.57:763][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.31.15:521][ 23]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.01-04.32.40:439][304]LogEditorViewport: Clicking Background
+[2024.03.01-04.34.06:334][511]LogUObjectHash: Compacting FUObjectHashTables data took  19.61ms
+[2024.03.01-04.34.06:566][511]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.164577 seconds
+[2024.03.01-04.34.20:680][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Metahuman/Landscape_Auto1
+[2024.03.01-04.34.20:680][511]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape_Auto1E586673D46769AAD683886B29B2EA318.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto1.umap'
+[2024.03.01-04.34.20:697][511]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto1.umap is in the /Temp path, will not scan.
+[2024.03.01-04.34.20:701][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Metahuman/Landscape' took 14.855
+[2024.03.01-04.34.20:701][511]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 14.855
+[2024.03.01-04.46.36:243][987]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.46.48:771][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.47.05:751][731]Cmd: DELETE
+[2024.03.01-04.47.05:752][731]Cmd: ACTOR DELETE
+[2024.03.01-04.48.13:485][341]LogEditorViewport: Clicking Background
+[2024.03.01-04.48.15:649][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.48.21:877][722]LogEditorViewport: Clicking Background
+[2024.03.01-04.48.37:446][386]LogViewport: Scene viewport resized to 1098x1318, mode Windowed.
+[2024.03.01-04.48.59:802][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.03.01-04.49.12:883][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Metahuman/Landscape_Auto2
+[2024.03.01-04.49.12:883][451]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape_Auto204039DF74B55E3CBB4C66C8F22C90406.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto2.umap'
+[2024.03.01-04.49.12:892][451]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto2.umap is in the /Temp path, will not scan.
+[2024.03.01-04.49.12:896][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Metahuman/Landscape' took 13.475
+[2024.03.01-04.49.12:896][451]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 13.475
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: ================================================
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Total job queries 752, among them cache hits 458 (60.90%)
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 163 distinct outputs (55.44%)
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: RAM used: 6.41 MiB of 819.20 MiB budget. Usage: 0.78%
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 0.50 s
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 0.58
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Shader code size: average 35.899 KiB, min 33.141 KiB, max 38.957 KiB
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.58 s
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Average processing rate: 13.78 jobs/sec
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Total thread time: 1.034 s
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Total thread preprocess time: 0.145 s
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Percentage time preprocessing: 14.05%
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.03.01-04.49.27:103][609]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.07 sec, max 0.07 sec, min 0.07 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.80% of total time (compiled    2 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.06% of total time (compiled    2 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.41% of total time (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.72% of total time (compiled    2 times, average 0.07 sec, max 0.07 sec, min 0.07 sec)
+[2024.03.01-04.49.27:104][609]LogShaderCompilers: Display: ================================================
+[2024.03.01-04.49.29:305][639]LogViewport: Scene viewport resized to 1101x1318, mode Windowed.
+[2024.03.01-04.49.29:443][640]LogViewport: Scene viewport resized to 1253x1318, mode Windowed.
+[2024.03.01-04.49.29:517][641]LogViewport: Scene viewport resized to 1269x1318, mode Windowed.
+[2024.03.01-04.49.29:626][642]LogViewport: Scene viewport resized to 1322x1318, mode Windowed.
+[2024.03.01-04.49.29:691][644]LogViewport: Scene viewport resized to 1326x1318, mode Windowed.
+[2024.03.01-04.49.29:740][645]LogViewport: Scene viewport resized to 1357x1318, mode Windowed.
+[2024.03.01-04.49.29:784][646]LogViewport: Scene viewport resized to 1397x1318, mode Windowed.
+[2024.03.01-04.49.29:836][647]LogViewport: Scene viewport resized to 1457x1318, mode Windowed.
+[2024.03.01-04.49.29:881][648]LogViewport: Scene viewport resized to 1505x1318, mode Windowed.
+[2024.03.01-04.49.29:943][649]LogViewport: Scene viewport resized to 1529x1318, mode Windowed.
+[2024.03.01-04.49.29:988][650]LogViewport: Scene viewport resized to 1534x1318, mode Windowed.
+[2024.03.01-04.49.30:043][651]LogViewport: Scene viewport resized to 1542x1318, mode Windowed.
+[2024.03.01-04.50.02:160][237]LogViewport: Scene viewport resized to 2013x1318, mode Windowed.
+[2024.03.01-04.50.04:321][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.50.29:786][356]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.50.54:553][630]LogEditorViewport: Clicking Background
+[2024.03.01-04.51.02:726][978]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.51.10:601][237]Cmd: ACTOR BAKEPREPIVOT
+[2024.03.01-04.51.17:944][453]Cmd: ACTOR BAKEPREPIVOT
+[2024.03.01-04.51.20:646][521]LogEditorViewport: Clicking Background
+[2024.03.01-04.51.28:030][804]Cmd: ACTOR BAKEPREPIVOT
+[2024.03.01-04.51.42:229][366]Cmd: ACTOR BAKEPREPIVOT
+[2024.03.01-04.51.54:565][866]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.52.20:245][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.52.34:192][126]LogEditorViewport: Clicking Background
+[2024.03.01-04.52.37:745][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.53.13:770][566]LogEditorViewport: Clicking Background
+[2024.03.01-04.53.17:354][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.53.38:607][751]LogEditorViewport: Clicking Background
+[2024.03.01-04.53.43:231][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.53.48:408][269]LogEditorViewport: Clicking Background
+[2024.03.01-04.53.54:346][594]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.54.03:547][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.54.14:524][659]LogEditorViewport: Clicking Background
+[2024.03.01-04.54.26:778][248]LogEditorViewport: Clicking Background
+[2024.03.01-04.54.37:536][638]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.54.38:369][658]LogViewport: Scene viewport resized to 1108x624, mode Windowed.
+[2024.03.01-04.54.45:379][826]LogEditorViewport: Clicking Background
+[2024.03.01-04.54.52:195][221]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.55.18:621][434]LogEditorViewport: Clicking Background
+[2024.03.01-04.55.23:594][697]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.55.49:622][692]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.55.56:404][946]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.56.00:745][ 69]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.56.05:126][135]Cmd: DELETE
+[2024.03.01-04.56.05:126][135]Cmd: ACTOR DELETE
+[2024.03.01-04.56.06:105][135]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.56.06:167][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.03.01-04.56.06:174][135]LogEditorActor: Deleted 1 Actors (1.047 secs)
+[2024.03.01-04.56.26:253][119]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.56.32:209][340]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.56.44:293][793]LogEditorViewport: Clicking Background
+[2024.03.01-04.57.00:818][575]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.57.01:405][590]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.57.04:479][725]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.57.04:993][739]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.57.05:467][753]LogViewport: Scene viewport resized to 1108x624, mode Windowed.
+[2024.03.01-04.57.10:234][832]Cmd: DELETE
+[2024.03.01-04.57.10:234][832]Cmd: ACTOR DELETE
+[2024.03.01-04.57.11:186][832]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.57.11:192][832]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.57.11:198][832]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.57.11:205][832]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.57.11:210][832]LogEditorActor: Deleted Actor: CineCameraActor
+[2024.03.01-04.57.11:229][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.01-04.57.11:233][832]LogEditorActor: Deleted 5 Actors (0.999 secs)
+[2024.03.01-04.57.11:771][853]LogEditorViewport: Clicking Background
+[2024.03.01-04.57.19:967][300]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.57.22:973][452]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.57.32:646][899]LogEditorViewport: Clicking Background
+[2024.03.01-04.57.39:220][238]LogEditorViewport: Clicking Background
+[2024.03.01-04.57.54:073][958]LogEditorViewport: Clicking Background
+[2024.03.01-04.58.05:807][498]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.58.25:645][352]LogEditorViewport: Clicking Background
+[2024.03.01-04.58.28:120][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.58.36:789][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.58.47:512][ 59]LogEditorViewport: Clicking Background
+[2024.03.01-04.58.58:174][473]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.59.11:247][866]LogEditorViewport: Clicking Background
+[2024.03.01-04.59.15:888][123]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-04.59.22:394][481]LogEditorViewport: Clicking Background
+[2024.03.01-04.59.33:552][  4]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-04.59.48:378][619]LogEditorViewport: Clicking Background
+[2024.03.01-05.01.55:935][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-05.01.56:294][311]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.03.01-05.01.56:294][311]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2024.03.01-05.01.56:702][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.03.01-05.01.56:758][311]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.03.01-05.02.10:252][311]LogSavePackage: Moving output files for package: /Game/Assets/Metahuman/Landscape
+[2024.03.01-05.02.10:254][311]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape18F2E69C4E2909A1990D1AB6EC8FEB49.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Content/Assets/Metahuman/Landscape.umap'
+[2024.03.01-05.02.10:406][311]LogFileHelpers: Saving map 'Landscape' took 13.781
+[2024.03.01-05.02.10:505][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.5 sec
+[2024.03.01-05.02.10:595][311]AssetCheck: New page: Asset Save: Landscape
+[2024.03.01-05.02.10:596][311]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Metahuman/Landscape.Landscape
+[2024.03.01-05.02.27:766][217]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Total job queries 786, among them cache hits 460 (58.52%)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Tracking 324 distinct input hashes that result in 171 distinct outputs (52.78%)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: RAM used: 7.11 MiB of 819.20 MiB budget. Usage: 0.87%
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Shaders Compiled: 36
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Jobs assigned 38, completed 36 (94.74%)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Average time worker was idle: 129.87 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Job execution time: average 0.30 s, max 0.62 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Job life time (pending + execution): average 0.36 s, max 0.65
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Shader code size: average 35.438 KiB, min 28.871 KiB, max 39.066 KiB
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.61 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Average processing rate: 7.80 jobs/sec
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Total thread time: 5.729 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Total thread preprocess time: 0.69 s
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Percentage time preprocessing: 12.04%
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Effective parallelization: 1.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    5 times, average 0.22 sec, max 0.26 sec, min 0.19 sec)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.15 sec, max 0.16 sec, min 0.15 sec)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.14 sec, max 0.17 sec, min 0.13 sec)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    5 times, average 0.14 sec, max 0.19 sec, min 0.12 sec)
+[2024.03.01-05.02.27:767][217]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.14 sec, max 0.17 sec, min 0.13 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.08% of total time (compiled    8 times, average 0.14 sec, max 0.17 sec, min 0.13 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.44% of total time (compiled    8 times, average 0.14 sec, max 0.17 sec, min 0.13 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display:                                                  FVelocityVS - 19.14% of total time (compiled    5 times, average 0.22 sec, max 0.26 sec, min 0.19 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.80% of total time (compiled    7 times, average 0.15 sec, max 0.16 sec, min 0.15 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display:                                                  FVelocityPS - 12.38% of total time (compiled    5 times, average 0.14 sec, max 0.19 sec, min 0.12 sec)
+[2024.03.01-05.02.27:768][217]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.02.34:662][496]LogLinker: Warning: Failed to load '/Game/Assets/TenBeersfbx': Can't find file.
+[2024.03.01-05.02.34:662][496]LogLinker: Warning: Failed to load '/Game/Assets/TenBeersfbx': Can't find file.
+[2024.03.01-05.02.34:662][496]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/TenBeersfbx.TenBeersfbx_Body1'
+[2024.03.01-05.02.34:863][502]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.03.01-05.02.37:569][566]LogViewport: Scene viewport resized to 1109x624, mode Windowed.
+[2024.03.01-05.02.43:679][810]LogEditorViewport: Clicking Background
+[2024.03.01-05.03.09:829][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-05.03.09:883][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-05.03.09:919][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.01-05.03.47:355][567]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.03.01-05.03.59:649][853]LogEditorViewport: Clicking Background
+[2024.03.01-05.03.59:826][853]LogEditorViewport: Clicking Background
+[2024.03.01-05.04.56:371][843]LogEditorViewport: Clicking Background
+[2024.03.01-05.05.08:180][289]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:182][289]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.01-05.05.08:182][289]LogConfig: Set CVar [[r.ViewDistanceScale:10.0]]
+[2024.03.01-05.05.08:182][289]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:183][289]LogConfig: Set CVar [[r.FXAA.Quality:5]]
+[2024.03.01-05.05.08:183][289]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.03.01-05.05.08:183][289]LogConfig: Set CVar [[r.TSR.History.R11G11B10:0]]
+[2024.03.01-05.05.08:183][289]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.03.01-05.05.08:183][289]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.03.01-05.05.08:184][289]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.03.01-05.05.08:184][289]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.03.01-05.05.08:184][289]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.03.01-05.05.08:184][289]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.03.01-05.05.08:184][289]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.Shadow.MaxResolution:4096]]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0]]
+[2024.03.01-05.05.08:185][289]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2024.03.01-05.05.08:186][289]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:8192]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:0.0]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:16]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:8]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:16]]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:8]]
+[2024.03.01-05.05.08:187][289]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:187][289]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.03.01-05.05.08:188][289]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.03.01-05.05.08:190][289]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.03.01-05.05.08:190][289]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:8]]
+[2024.03.01-05.05.08:191][289]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:16]]
+[2024.03.01-05.05.08:191][289]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:.5]]
+[2024.03.01-05.05.08:191][289]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:4]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:16]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:1000]]
+[2024.03.01-05.05.08:192][289]LogConfig: Applying CVar settings from Section [ReflectionQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.SSR.Quality:4]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:1]]
+[2024.03.01-05.05.08:192][289]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.03.01-05.05.08:192][289]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.GTAO.Numangles:4]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DepthOfFieldQuality:4]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.RenderTargetPoolMin:1000]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.LensFlareQuality:3]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:100]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:1         ; do the gathering at full resolution]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.01-05.05.08:193][289]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.01-05.05.08:193][289]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.Streaming.PoolSize:3000]]
+[2024.03.01-05.05.08:194][289]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.SSGI.Quality:4]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.01-05.05.08:194][289]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2024.03.01-05.05.08:195][289]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[fx.Niagara.QualityLevel:4]]
+[2024.03.01-05.05.08:196][289]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.03.01-05.05.08:196][289]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [Scalability]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:1]]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2024.03.01-05.05.08:196][289]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.03.01-05.05.08:505][289]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.03.01-05.05.08:808][289]LogContentStreaming: Texture pool size now 3000 MB
+[2024.03.01-05.05.09:095][290]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.03.01-05.05.13:204][292]LogEditorViewport: Clicking Background
+[2024.03.01-05.05.29:696][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.03.01-05.05.30:570][812]LogSlate: Window 'Save Content' being destroyed
+[2024.03.01-05.05.30:639][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-05.05.30:847][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.01-05.05.45:448][812]LogSavePackage: Moving output files for package: /Game/Assets/Metahuman/Landscape
+[2024.03.01-05.05.45:448][812]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/LandscapeF94632AE4D66C808B1898AA5D55E4917.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Content/Assets/Metahuman/Landscape.umap'
+[2024.03.01-05.05.45:549][812]LogFileHelpers: Saving map 'Landscape' took 14.776
+[2024.03.01-05.05.45:585][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.9 sec (total: 29.5 sec)
+[2024.03.01-05.05.45:676][812]AssetCheck: New page: Asset Save: Landscape
+[2024.03.01-05.05.45:676][812]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Metahuman/Landscape.Landscape
+[2024.03.01-05.05.49:993][850]LogViewport: Scene viewport resized to 1542x1318, mode Windowed.
+[2024.03.01-05.06.12:330][325]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2024.03.01-05.06.12:331][325]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2024.03.01-05.06.12:332][325]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2024.03.01-05.06.12:332][325]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2024.03.01-05.06.12:332][325]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2024.03.01-05.06.12:332][325]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.03.01-05.06.12:332][325]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2024.03.01-05.06.12:333][325]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.03.01-05.06.12:333][325]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2024.03.01-05.06.12:333][325]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.03.01-05.06.12:333][325]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.03.01-05.06.12:333][325]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.03.01-05.06.12:333][325]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.03.01-05.06.12:333][325]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.03.01-05.06.12:334][325]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2024.03.01-05.06.12:334][325]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.03.01-05.06.12:348][325]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.03.01-05.06.12:348][325]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.03.01-05.06.12:349][325]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.03.01-05.06.12:349][325]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.03.01-05.06.12:350][325]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.03.01-05.06.12:351][325]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2024.03.01-05.06.12:351][325]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.03.01-05.06.12:351][325]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.01-05.06.12:352][325]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2024.03.01-05.06.12:353][325]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2024.03.01-05.06.12:353][325]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.03.01-05.06.12:353][325]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.03.01-05.06.12:700][325]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.03.01-05.06.13:112][325]LogContentStreaming: Texture pool size now 600 MB
+[2024.03.01-05.06.13:392][327]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.03.01-05.06.19:428][438]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Total job queries 839, among them cache hits 460 (54.83%)
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Tracking 347 distinct input hashes that result in 190 distinct outputs (54.76%)
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: RAM used: 7.73 MiB of 819.20 MiB budget. Usage: 0.94%
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Shaders Compiled: 54
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Jobs assigned 70, completed 54 (77.14%)
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Average time worker was idle: 149.71 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.94 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.83 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 0.94
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Shader code size: average 38.786 KiB, min 4.008 KiB, max 71.812 KiB
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.77 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Jobs were issued in 70 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Average processing rate: 9.36 jobs/sec
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Total thread time: 11.917 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Total thread preprocess time: 1.447 s
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Percentage time preprocessing: 12.14%
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.03.01-05.06.19:429][438]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.62% of total time (compiled   10 times, average 0.21 sec, max 0.40 sec, min 0.15 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.52% of total time (compiled    9 times, average 0.17 sec, max 0.34 sec, min 0.13 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.20% of total time (compiled    9 times, average 0.16 sec, max 0.34 sec, min 0.13 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:                                                  FVelocityVS - 10.59% of total time (compiled    6 times, average 0.21 sec, max 0.26 sec, min 0.17 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display:                                                  FVelocityPS - 6.94% of total time (compiled    6 times, average 0.14 sec, max 0.19 sec, min 0.12 sec)
+[2024.03.01-05.06.19:430][438]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.06.21:669][494]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1101 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.093742 MB), EncodeSpeed: Fast
+[2024.03.01-05.06.21:670][494]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1102 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.093742 MB), EncodeSpeed: Fast
+[2024.03.01-05.06.21:672][494]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c0/55/cdb73d5a3036e186b60c00dd083ab0b1bac5.udd from '/Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1101'.
+[2024.03.01-05.06.21:672][494]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e1/23/b4a27ee23aadded69fa742e7485ded622481.udd from '/Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1102'.
+[2024.03.01-05.06.53:645][ 52]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1109 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.06.53:657][ 52]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.07.04:557][318]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1111 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.07.12:857][639]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1113 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:118][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2024.03.01-05.15.30:173][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:175][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1037 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:177][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1053 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:178][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:179][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:181][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1079 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:181][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_108 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:183][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1080 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:184][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:184][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1099 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:186][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1105 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:186][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1106 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:187][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:188][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:188][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_124 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:190][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_132 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:191][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:192][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_849 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:192][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_851 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:193][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_853 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:194][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_854 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:195][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_90 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:196][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_91 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:196][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:199][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1109 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:199][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:200][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1111 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.30:201][ 15]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1113 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.15.45:953][ 15]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Metahuman/Landscape_Auto3
+[2024.03.01-05.15.45:953][ 15]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape_Auto34EBE884A49702C0876CE749CAD0AA2E8.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto3.umap'
+[2024.03.01-05.15.45:972][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.01-05.15.45:972][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Assets/Metahuman/Landscape_Auto3 is in the /Temp path, will not scan.
+[2024.03.01-05.15.45:972][ 15]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Assets/Metahuman/Landscape_Auto3 is in the /Temp path, will not scan.
+[2024.03.01-05.15.45:977][ 15]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Metahuman/Landscape' took 16.081
+[2024.03.01-05.15.45:977][ 15]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 16.081
+[2024.03.01-05.24.05:374][902]LogDerivedDataCache: C:/Users/Yizhe Wu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:11.555 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 102469 files in 91946 folders with total size 9937 MiB.
+[2024.03.01-05.46.41:345][857]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Total job queries 1,288, among them cache hits 477 (37.03%)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Tracking 764 distinct input hashes that result in 350 distinct outputs (45.81%)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: RAM used: 19.56 MiB of 819.20 MiB budget. Usage: 2.39%
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Shaders Compiled: 471
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Jobs assigned 487, completed 471 (96.71%)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Average time worker was idle: 99.11 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Time job spent in pending queue: average 0.70 s, longest 3.13 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 0.83 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 3.75
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Shader code size: average 48.504 KiB, min 3.324 KiB, max 76.367 KiB
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.39 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Jobs were issued in 487 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Average processing rate: 25.62 jobs/sec
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Total thread time: 130.405 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Total thread preprocess time: 12.037 s
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Percentage time preprocessing: 9.23%
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Effective parallelization: 7.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   27 times, average 0.55 sec, max 0.76 sec, min 0.33 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   27 times, average 0.33 sec, max 0.42 sec, min 0.25 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   27 times, average 0.33 sec, max 0.45 sec, min 0.24 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   27 times, average 0.33 sec, max 0.41 sec, min 0.20 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   27 times, average 0.32 sec, max 0.42 sec, min 0.23 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.35% of total time (compiled   27 times, average 0.55 sec, max 0.76 sec, min 0.33 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.20% of total time (compiled   35 times, average 0.27 sec, max 0.40 sec, min 0.15 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.90% of total time (compiled   27 times, average 0.33 sec, max 0.42 sec, min 0.25 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.89% of total time (compiled   27 times, average 0.33 sec, max 0.45 sec, min 0.24 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.84% of total time (compiled   27 times, average 0.33 sec, max 0.41 sec, min 0.20 sec)
+[2024.03.01-05.46.41:346][857]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.46.44:217][938]LogViewport: Scene viewport resized to 1171x901, mode Windowed.
+[2024.03.01-05.46.44:717][938]LogViewport: Scene viewport resized to 780x600, mode Windowed.
+[2024.03.01-05.46.46:637][ 33]LogViewport: Scene viewport resized to 1158x892, mode Windowed.
+[2024.03.01-05.47.15:207][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.03.01-05.47.15:287][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1037 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:290][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1053 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:293][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:294][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:296][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1079 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:299][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:300][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1105 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:301][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:304][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_854 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:310][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_855 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:311][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:315][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1109 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.15:319][395]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.47.28:420][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Metahuman/Landscape_Auto4
+[2024.03.01-05.47.28:420][395]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape_Auto467A97B0A4F5EDCD275204BA6C64D1C33.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto4.umap'
+[2024.03.01-05.47.28:431][395]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Autosaves/Game/Assets/Metahuman/Landscape_Auto4.umap is in the /Temp path, will not scan.
+[2024.03.01-05.47.28:432][395]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Assets/Metahuman/Landscape_Auto4 is in the /Temp path, will not scan.
+[2024.03.01-05.47.28:432][395]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Assets/Metahuman/Landscape_Auto4 is in the /Temp path, will not scan.
+[2024.03.01-05.47.28:436][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Metahuman/Landscape' took 13.288
+[2024.03.01-05.47.28:436][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 13.288
+[2024.03.01-05.48.14:245][ 64]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1117 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.01:611][ 73]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2024.03.01-05.49.01:696][ 73]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=39580
+[2024.03.01-05.49.02:034][ 74]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b251d1c6-a0b1-4c40-8134-3d5285214039}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=245.20
+[2024.03.01-05.49.02:034][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.01-05.49.02:035][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.01-05.49.32:638][429]Cmd: TRANSACTION UNDO
+[2024.03.01-05.49.32:638][429]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.03.01-05.49.32:652][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_778 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:653][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_839 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:653][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1037 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:653][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:654][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:654][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:654][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_849 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.32:654][429]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.45:468][111]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1118 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Total job queries 1,589, among them cache hits 490 (30.84%)
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Tracking 1,072 distinct input hashes that result in 466 distinct outputs (43.47%)
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: RAM used: 28.29 MiB of 819.20 MiB budget. Usage: 3.45%
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Shaders Compiled: 779
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Jobs assigned 795, completed 779 (97.99%)
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Average time worker was idle: 63.57 s
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 3.13 s
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Job execution time: average 0.39 s, max 0.93 s
+[2024.03.01-05.49.46:613][118]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 3.75
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Shader code size: average 49.075 KiB, min 3.324 KiB, max 76.367 KiB
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.81 s
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Jobs were issued in 795 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Average processing rate: 27.04 jobs/sec
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Total thread time: 227.789 s
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Total thread preprocess time: 20.844 s
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Percentage time preprocessing: 9.15%
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Effective parallelization: 7.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   45 times, average 0.57 sec, max 0.84 sec, min 0.33 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   47 times, average 0.35 sec, max 0.50 sec, min 0.25 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   46 times, average 0.35 sec, max 0.49 sec, min 0.21 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   46 times, average 0.35 sec, max 0.49 sec, min 0.20 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   46 times, average 0.34 sec, max 0.47 sec, min 0.20 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.21% of total time (compiled   45 times, average 0.57 sec, max 0.84 sec, min 0.33 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.26% of total time (compiled   47 times, average 0.35 sec, max 0.50 sec, min 0.25 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.07% of total time (compiled   55 times, average 0.29 sec, max 0.45 sec, min 0.15 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.05% of total time (compiled   46 times, average 0.35 sec, max 0.49 sec, min 0.21 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.01% of total time (compiled   46 times, average 0.35 sec, max 0.49 sec, min 0.20 sec)
+[2024.03.01-05.49.46:614][118]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.49.54:382][520]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1120 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.54:385][520]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1121 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.49.57:875][621]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1123 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:266][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-05.51.57:505][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2024.03.01-05.51.57:549][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:551][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:552][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1037 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:554][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1053 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:555][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:556][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:557][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1079 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:558][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_108 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:559][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1080 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:561][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1083 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:563][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1086 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:564][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:565][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1091 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:567][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1094 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:567][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1097 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:568][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1098 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:569][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1099 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:571][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1105 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:571][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1106 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:572][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:573][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:574][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_124 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:575][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_132 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:575][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_140 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:577][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_438 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:578][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_759 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:579][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_762 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:581][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_773 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:582][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_774 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:583][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_777 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:584][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_778 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:585][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_8 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:585][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_820 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:587][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:588][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_831 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:589][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_833 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:590][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_838 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:591][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_839 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:592][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_842 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:593][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_849 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:594][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_851 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:595][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_853 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:596][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_854 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:598][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_855 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:599][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_91 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:600][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:600][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:603][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1109 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:603][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:604][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1111 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:605][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1113 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:606][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1117 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:607][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1123 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:608][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1121 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:609][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1120 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.51.57:610][742]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1118 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.52.10:852][742]LogSavePackage: Moving output files for package: /Game/Assets/Metahuman/Landscape
+[2024.03.01-05.52.10:853][742]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape60A352EF4CEEA3BA5FAA399ED2DC4276.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Content/Assets/Metahuman/Landscape.umap'
+[2024.03.01-05.52.10:969][742]LogFileHelpers: Saving map 'Landscape' took 13.534
+[2024.03.01-05.52.11:011][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.7 sec (total: 43.2 sec)
+[2024.03.01-05.52.11:108][742]AssetCheck: New page: Asset Save: Landscape
+[2024.03.01-05.52.11:108][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Metahuman/Landscape.Landscape
+[2024.03.01-05.53.00:793][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-05.53.00:906][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.01-05.53.00:944][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:947][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_100 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:948][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:950][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1080 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:951][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1083 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:960][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:963][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1097 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:964][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1099 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:965][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1105 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:981][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1106 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:982][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_116 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.00:994][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_124 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:000][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_132 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:002][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_16 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:004][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_777 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:005][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_83 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:007][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_849 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:008][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_91 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:009][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:011][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1111 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:013][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1113 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.01:014][596]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1121 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.53.14:248][596]LogSavePackage: Moving output files for package: /Game/Assets/Metahuman/Landscape
+[2024.03.01-05.53.14:248][596]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/Landscape2A40664D41C99B67BA170BAA0BFBD88C.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Content/Assets/Metahuman/Landscape.umap'
+[2024.03.01-05.53.14:385][596]LogFileHelpers: Saving map 'Landscape' took 13.547
+[2024.03.01-05.53.14:447][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.6 sec (total: 56.9 sec)
+[2024.03.01-05.53.14:525][596]AssetCheck: New page: Asset Save: Landscape
+[2024.03.01-05.53.14:525][596]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Metahuman/Landscape.Landscape
+[2024.03.01-05.53.54:376][581]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.53.54:376][581]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.01-05.53.54:376][581]LogShaderCompilers: Display: Total job queries 1,832, among them cache hits 493 (26.91%)
+[2024.03.01-05.53.54:376][581]LogShaderCompilers: Display: Tracking 1,295 distinct input hashes that result in 532 distinct outputs (41.08%)
+[2024.03.01-05.53.54:376][581]LogShaderCompilers: Display: RAM used: 34.62 MiB of 819.20 MiB budget. Usage: 4.23%
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Shaders Compiled: 1,002
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Jobs assigned 1,018, completed 1,002 (98.43%)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Average time worker was idle: 53.28 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 3.13 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 0.93 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 3.75
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Shader code size: average 49.236 KiB, min 3.324 KiB, max 76.367 KiB
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.26 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Jobs were issued in 1,018 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Average processing rate: 27.63 jobs/sec
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Total thread time: 301.312 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Total thread preprocess time: 27.586 s
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Percentage time preprocessing: 9.16%
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Effective parallelization: 8.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   60 times, average 0.58 sec, max 0.84 sec, min 0.33 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   60 times, average 0.36 sec, max 0.50 sec, min 0.21 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   60 times, average 0.36 sec, max 0.50 sec, min 0.25 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   60 times, average 0.35 sec, max 0.49 sec, min 0.20 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   60 times, average 0.34 sec, max 0.47 sec, min 0.20 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.57% of total time (compiled   60 times, average 0.58 sec, max 0.84 sec, min 0.33 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.17% of total time (compiled   60 times, average 0.36 sec, max 0.50 sec, min 0.21 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.14% of total time (compiled   60 times, average 0.36 sec, max 0.50 sec, min 0.25 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.05% of total time (compiled   60 times, average 0.35 sec, max 0.49 sec, min 0.20 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.95% of total time (compiled   69 times, average 0.30 sec, max 0.47 sec, min 0.15 sec)
+[2024.03.01-05.53.54:377][581]LogShaderCompilers: Display: ================================================
+[2024.03.01-05.54.02:495][917]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1129 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.03:100][951]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1130 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.37:426][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.01-05.54.38:405][873]LogSlate: Window 'Save Content' being destroyed
+[2024.03.01-05.54.38:506][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.01-05.54.38:640][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.01-05.54.38:689][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:691][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1037 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:693][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1053 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:695][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_107 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:697][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1077 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:699][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1079 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:700][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1080 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:703][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1088 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:705][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1093 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:724][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1094 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:726][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1099 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:738][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1105 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:741][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1106 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:746][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:749][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_773 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:753][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_778 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:756][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_819 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:759][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_838 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:761][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_839 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:763][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_849 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:764][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_851 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:765][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_853 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:767][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_854 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:769][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_855 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:770][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:772][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_99 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:775][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1109 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:777][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1110 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:779][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1111 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:780][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1113 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:781][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1117 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:783][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1123 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:784][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1121 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:785][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1120 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:786][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1118 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:788][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1129 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.38:789][873]LogTexture: Display: Building textures: /Game/Assets/Metahuman/Landscape.Landscape:PersistentLevel.Landscape_0.Weightmap_1130 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 0.092442 MB), EncodeSpeed: Fast
+[2024.03.01-05.54.52:965][873]LogSavePackage: Moving output files for package: /Game/Assets/Metahuman/Landscape
+[2024.03.01-05.54.52:965][873]LogSavePackage: Moving '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Saved/LandscapeA2C824F94A74F18A644374A74914D17F.tmp' to '../../../../../../Users/Yizhe Wu/Documents/GitHub/CityForWill/Cityscape/Content/Assets/Metahuman/Landscape.umap'
+[2024.03.01-05.54.53:113][873]LogFileHelpers: Saving map 'Landscape' took 14.549
+[2024.03.01-05.54.53:150][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.6 sec (total: 1:11 min)
+[2024.03.01-05.54.53:246][873]AssetCheck: New page: Asset Save: Landscape
+[2024.03.01-05.54.53:246][873]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Metahuman/Landscape.Landscape
+[2024.03.01-05.55.26:963][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.01-05.55.26:972][975]LogStall: Shutdown...
+[2024.03.01-05.55.26:979][975]LogStall: Shutdown complete.
+[2024.03.01-05.55.27:010][975]LogSlate: Window 'Cityscape - Unreal Editor' being destroyed
+[2024.03.01-05.55.27:504][976]Cmd: QUIT_EDITOR
+[2024.03.01-05.55.27:505][976]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.01-05.55.27:520][976]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.01-05.55.27:525][976]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.01-05.55.27:526][976]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.01-05.55.28:549][976]LogWorld: UWorld::CleanupWorld for Landscape, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.28:575][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.01-05.55.28:637][976]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.01-05.55.29:378][976]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.01-05.55.29:378][976]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.01-05.55.29:378][976]LogAudio: Display: Audio Device unregistered from world 'Landscape'.
+[2024.03.01-05.55.29:379][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.03.01-05.55.29:411][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.01-05.55.29:423][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.01-05.55.29:457][976]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.01-05.55.29:459][976]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.03.01-05.55.29:470][976]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.01-05.55.29:471][976]LogExit: Preparing to exit.
+[2024.03.01-05.55.29:593][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.03.01-05.55.31:162][976]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.31:163][976]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.31:164][976]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.31:165][976]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.31:165][976]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.01-05.55.32:125][976]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.01-05.55.41:082][976]LogExit: Editor shut down
+[2024.03.01-05.55.41:107][976]LogExit: Transaction tracking system shut down
